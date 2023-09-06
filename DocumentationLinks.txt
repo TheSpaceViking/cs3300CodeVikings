@@ -1,1 +1,7 @@
 Code Vikings Documentation Links.
+Git and Github Python Documentation from Deb
+https://docs.google.com/document/u/0/d/1xSlNQQnYDTIewc463_cxBubpAICr9era/edit?fromCopy=true
+Using git in VS Code
+https://www.vogella.com/tutorials/VisualStudioCodeGit/article.html#:~:text=In%20the%20Source%20Control%20View,branch%20into%20the%20master%20branch.
+Setting up Python
+https://python.land/virtual-environments/virtualenv#Virtual_environments_vs_other_options
